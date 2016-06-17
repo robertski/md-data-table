@@ -138,6 +138,8 @@ angular.module('demoApp').controller('sampleController', ['$nutrition', '$scope'
 
 **v0.10.x**
 
+### Main
+
 * [Column Sorting](#column-sorting)
 * [Edit Dialogs](#edit-dialogs)
 * [Inline Menus](#inline-menus)
@@ -146,6 +148,9 @@ angular.module('demoApp').controller('sampleController', ['$nutrition', '$scope'
 * [Row Selection](#row-selection)
 * [Table Progress] (#table-progress)
 * [Table Toolbars](#table-toolbars)
+
+### TEKStack
+
 
 **Earlier Versions**
 
